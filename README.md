@@ -10,10 +10,17 @@ A college students plans on moving to Boston post graduation to begin a career. 
 
 ## **Project Objectives and Research Questions**
 ---
+### ***Preliminary Questions***
+*   Do most incidents involve a shooting?
+*   Have crime incidents increased or decreased over the past few years?
+*   What months have the highest occurences of crime incidents?
 *   What days of the week have the most crime incidents reported? 
-*   Do weekends or weekdays have more crime incidents reported?
 *   What hour of the day has the most crime incidents reported?
+
+### ***Further Research Questions***
 *   What season has the most crime incidents reported? Do different seasons see an increase in crime incident reports at different hours?
+*   Have different years observed different patterns in terms of monthly counts of crime incident reports?
+*   Do weekends or weekdays have more crime incidents reported?
 *   What location area has the highest concentration of crime incident reports?
 
 ## **Project Outline**
