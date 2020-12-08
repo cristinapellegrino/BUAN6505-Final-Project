@@ -4,7 +4,7 @@
 
 ![Boston Map](https://previews.123rf.com/images/netsign33/netsign331710/netsign33171000070/87862046-boston-massachusetts-downtown-vector-map-.jpg)
 
-## ***Project Overview***
+## **Project Overview**
 ---
 A college students plans on moving to Boston post graduation to begin a career. The student is unfamiliar with the area, and is trying to learn more about the area for safety reasons. The student wants to know what areas crimes are most prevelant in and the time they are most likely to occur in order to be extra cautious. 
 
