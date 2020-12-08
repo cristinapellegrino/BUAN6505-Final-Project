@@ -28,7 +28,7 @@ A college students plans on moving to Boston post graduation to begin a career. 
 
 ### **Data Sources**
 ---
-[Kaggle: Crimes in Boston](https://www.kaggle.com/AnalyzeBoston/crimes-in-boston)
+*   [Kaggle: Crimes in Boston](https://www.kaggle.com/AnalyzeBoston/crimes-in-boston)
 
 ## **File Links**
 ---
