@@ -39,6 +39,6 @@ A college students plans on moving to Boston post graduation to begin a career. 
 
 ## **File Links**
 ---
-*   [Notebook](URL)
+*   [Notebook](https://colab.research.google.com/drive/1VsybSXMp8UIUXQ_IZYsohKagtuztXjeT?usp=sharing)
 *   [PowerPoint](https://docs.google.com/presentation/d/1L3qceaeGNgC_70rWwSYwJGJ5kQbm06jMOP0AkPWsjwk/edit?usp=sharing)
 
