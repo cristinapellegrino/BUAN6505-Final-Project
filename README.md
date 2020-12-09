@@ -21,7 +21,7 @@ A college students plans on moving to Boston post graduation to begin a career. 
 *   What season has the most crime incidents reported? Do different seasons see an increase in crime incident reports at different hours?
 *   Have different years observed different patterns in terms of monthly counts of crime incident reports?
 *   Do weekends or weekdays have more crime incidents reported?
-*   What location area has the highest concentration of crime incident reports?
+*   What area has the highest concentration of crime incident reports?
 
 ## **Project Outline**
 ---
