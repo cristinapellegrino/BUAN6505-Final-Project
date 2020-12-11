@@ -26,9 +26,9 @@ A college students plans on moving to Boston post graduation to begin a career. 
 ## **Project Outline**
 ---
 *   Section 1: Overview
-*   Section 2: Import and Describe the Data Set
-*   Section 3: Initial Data Review
-*   Section 4: Clean Data
+*   Section 2: Study the Data
+*   Section 3: Clean the Data
+*   Section 4: Describe the Data
 *   Section 5: Feature Transformation and Creation
 *   Section 6: Analysis
 *   Section 7: Conclusion
