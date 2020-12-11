@@ -2,7 +2,7 @@
 ---
 ## *Cristina Pellegrino and Tyler Sirowich*
 
-![Boston Map](https://previews.123rf.com/images/netsign33/netsign331710/netsign33171000070/87862046-boston-massachusetts-downtown-vector-map-.jpg)
+![Boston Map](https://cdn.shopify.com/s/files/1/0078/2472/products/boston_type_map_rainbow_large_1024x1024.png?v=1392723694)
 
 ## **Project Overview**
 ---
