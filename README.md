@@ -39,8 +39,8 @@ A college students plans on moving to Boston post graduation to begin a career. 
 
 ## **File Links**
 ---
-*   [Nbviewer Notebook](https://nbviewer.jupyter.org/github/cristinapellegrino/BUAN6505-Final-Project/blob/main/BostonFinalProject_V2.ipynb)
-*   [Notebook](BostonFinalProject.ipynb)
+*   [Nbviewer Notebook](https://nbviewer.jupyter.org/github/cristinapellegrino/BUAN6505-Final-Project/blob/main/BostonFinalProject.ipynb)
+*   [Notebook](https://github.com/cristinapellegrino/BUAN6505-Final-Project/blob/main/BostonFinalProject.ipynb)
 *   [PowerPoint](https://docs.google.com/presentation/d/1L3qceaeGNgC_70rWwSYwJGJ5kQbm06jMOP0AkPWsjwk/edit?usp=sharing)
 *   [Interactive Map of Report Locations](https://nbviewer.jupyter.org/github/cristinapellegrino/BUAN6505-Final-Project/blob/main/interactivemap.html)
 
